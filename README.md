@@ -53,11 +53,11 @@ The Power BI file includes multiple report pages addressing different business a
 
 | Sales Overview | HR Dashboard |
 |----------------|--------------|
-| ![Sales](screenshots/sales-overview.png) | ![HR](screenshots/hr-insights.png) |
+| ![Sales](screenshot/sales-overview.png) | ![HR](screenshot/hr-insights.png) |
 
 | Campaign Report | Finance Summary |
 |----------------|-----------------|
-| ![Campaign](screenshots/campaign-analysis.png) | ![Finance](screenshots/finance-summary.png) |
+| ![Campaign](screenshot/campaign-analysis.png) | ![Finance](screenshot/finance-summary.png) |
 
 ---
 
