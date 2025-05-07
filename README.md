@@ -57,7 +57,7 @@ The Power BI file includes multiple report pages addressing different business a
 
 | Campaign Report | Finance Summary |
 |----------------|-----------------|
-| ![Campaign](screenshot/campaign-analysis.png) | ![Finance](screenshot/finance-summary.png) |
+| ![Campaign](screenshot/campaign-analysis.png) | ![Finance](screenshot/financial-summary.png) |
 
 ---
 
