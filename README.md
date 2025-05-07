@@ -81,7 +81,7 @@ The Power BI file includes multiple report pages addressing different business a
 ## 🛠 Tools & Technologies
 
 ```text
-Power BI   | DAX   | CSV   | Data Modeling   | Visualization
+Power BI   | DAX  | Data Modeling  | Visualization
 ```
 
 ---
