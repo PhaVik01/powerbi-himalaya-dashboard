@@ -7,12 +7,12 @@ This project showcases a comprehensive Power BI dashboard built using four datas
 
 ## 📁 Data Sources
 
-The dashboard is based on the following CSV files:
+The dashboard is based on the following xlsx files:
 
-- `Avdelningar.csv` – Sales and departmental performance
-- `HR.csv` – Employee data, hours worked, gender, age, and salary
-- `Kampanj.csv` – Campaign details, discount levels, and revenue impact
-- `Ekonomi.csv` – Monthly and yearly financial results
+- `Avdelningar.xlsx` – Sales and departmental performance
+- `HR_2023-02-24.xlsx` – Employee data, hours worked, gender, age, and salary
+- `Kampanj.xlsx` – Campaign details, discount levels, and revenue impact
+- `Ekonomi.xlsx` – Monthly and yearly financial results
 
 ---
 
