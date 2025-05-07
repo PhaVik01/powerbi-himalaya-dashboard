@@ -88,7 +88,7 @@ Power BI   | DAX   | CSV   | Data Modeling   | Visualization
 
 ## 📫 Contact
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/yourname) or email: yourname@example.com
+Feel free to reach out via [LinkedIn]https://www.linkedin.com/in/phatsorn-vik-3973831b7/ or email: phatsornvik@gmail.com
 
 ---
 
